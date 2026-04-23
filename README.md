@@ -1,7 +1,3 @@
-Here is a **clean, production-ready `README.md`** tailored to your setup (ZIP with `run.bat` + `docker-compose.yml`, Docker-first flow, repo-friendly):
-
----
-
 # 🚀 Azurite Local Setup Guide (Docker + ZIP Package)
 
 This guide will walk you through setting up **Azurite (Azure Storage Emulator)** locally using **Docker** and the provided ZIP package.
